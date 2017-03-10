@@ -1,0 +1,27 @@
+body
+{
+	background: yellow; 
+	border: dotted border; 
+	margin: 5% 10% 5% 10%
+	padding: 5%;
+}/*body*/
+
+h1 
+{
+	font-family: Arial black;
+	color: purple;
+}/*h1*/
+
+h2
+{
+    font-family: sans-serif;
+	background-color: lime
+}/*h2/
+
+p
+{
+	border: ridge border;
+	color: purple;
+	font-family: sans-serif;
+}
+/*p*/
